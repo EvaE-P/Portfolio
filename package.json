@@ -14,7 +14,7 @@
   "author": "Eva Emendoerfer-Papageorge",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^4.40.2",
+    "webpack": "^5.75.0",
     "webpack-cli": "^3.3.8"
   },
   "dependencies": {
@@ -38,6 +38,6 @@
     "react-dom": "^16.11.0",
     "react-redux": "^7.1.1",
     "react-router-dom": "^5.1.2",
-    "webpack": "^4.41.2"
+    "webpack": "^5.75.0"
   }
 }
